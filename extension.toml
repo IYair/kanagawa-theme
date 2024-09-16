@@ -4,4 +4,4 @@ schema_version = 1
 version = "0.1.0"
 authors = ["Yair Chan <enyaoficial001@gmail.com>"]
 description = "🐉 A theme inspired by the Kanagawa wave 🌊"
-repository = "https://github.com/IYair/zed-kanagawa-theme.git"
+repository = "https://github.com/IYair/kanagawa-theme.git"
