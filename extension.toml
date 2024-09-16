@@ -1,0 +1,7 @@
+id = "kanagawa"
+name = "Kanagawa Themes"
+schema_version = 1
+version = "0.0.1"
+authors = ["Yair Chan <enyaoficial001@gmail.com>"]
+description = "🐉 A theme inspired by the Kanagawa wave 🌊"
+repository = "hg:https://github.com/IYair/kanagawa-themes"
